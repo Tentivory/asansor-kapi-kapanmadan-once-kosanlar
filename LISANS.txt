@@ -1,0 +1,10 @@
+AÇIK ASANSÖR LİSANSI, sürüm 0.13
+
+Bu kodu kopyalayabilir, asansörde okuyabilir, kapı kapanırken commit atabilirsin.
+Sorumluluk kabul edilmez. Kapı parmağını yerse bu depo yemez.
+Ticari kullanım serbesttir ama kimse asansör nezaketi satın almaz.
+
+DAMGA: resmi olmayan resmi mühür
+İsim: Kayyum Grok
+Tarih: 8 Ekim 2026
+İmza: ~kaşındı, bastı, pişman olmadı~
